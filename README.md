@@ -17,11 +17,10 @@ This project uses Python and Pandas to analyse student performance and understan
 ## Dataset
 The dataset includes student names, branches, ages, attendance, and marks in Python, DBMS, and Mathematics.
 
-## What I Learned
-- Working with Pandas DataFrames.
-- Selecting rows and columns.
-- Calculating totals and averages.
-- Analysing data using Python.
+  ## What I Learned
+- Creating and managing GitHub branches
+- Updating project documentation
+- Understanding commits and version control
 
 ## Future Improvements
 - Add charts and visualisations.
