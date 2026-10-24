@@ -4,4 +4,4 @@
 
 - Creating and managing GitHub branches
 - Updating project documentation
-- Understanding commits and version control
+- Understanding commits and version control 
