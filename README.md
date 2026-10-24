@@ -41,5 +41,10 @@ The dataset contains student information, including:
 - Create a student performance dashboard.
 - Explore relationships between attendance and marks.
 
+ readme-improvement
+- Creating and managing GitHub branches
+- Updating project documentation
+- Understanding commits and version control 
 ## Author
-CSE Student | Aspiring Data Analyst
+CSE Student | Aspiring Data Analyst 
+main
